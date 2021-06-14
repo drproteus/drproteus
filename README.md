@@ -1,15 +1,12 @@
 ☕🎧☕🎧🍄🤖🎲
-```
-   _       _                
-  (_) __ _| | _____    __ _ 
-  | |/ _` | |/ / _ \  / _` |
-  | | (_| |   <  __/ | (_| |
- _/ |\__,_|_|\_\___|  \__, |
-|__/                  |___/ 
-
+```python
+while True:
+    hack()
+    slack()
 ```
 
-[home](https://jakeg.dev)
-[youtube](https://www.youtube.com/channel/UCTqGXpGGZpG7JTj95LVE-tg)
+* [home](https://jakeg.dev)
+* [youtube](https://www.youtube.com/channel/UCTqGXpGGZpG7JTj95LVE-tg)
+* [resume](https://jakeg.dev/resume.html)
 
 ![diz](https://static.skinet.org/images/dizposter.jpg)
