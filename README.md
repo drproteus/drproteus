@@ -10,3 +10,7 @@ while True:
 * [youtube](https://www.youtube.com/channel/UCTqGXpGGZpG7JTj95LVE-tg)
 * [resume](https://jakeg.dev/resume.html)
 * [🌲](https://linktr.ee/drproteus)
+
+> **Billy**: Boy, hacker movies always make this seem way more exciting.
+> 
+> **Pete**: Yeah, without the dramatic close-ups and, like, a booming techno score, real-life hacking is just… typing.
