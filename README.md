@@ -1,4 +1,4 @@
-![diz](https://static.skinet.org/images/dizbanner.png)
+<a href="https://dizzy.biz"><img src="https://static.skinet.org/images/dizbanner.png"/></a>
 ```python
 while True:
     hack()
