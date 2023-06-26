@@ -1,4 +1,4 @@
-<a href="https://dizzy.biz"><img src="https://static.skinet.org/images/dizbanner.png"/></a>
+<a href="https://dizzy.biz" target="_blank" rel="noopener noreferrer"><img src="https://static.skinet.org/images/dizbanner.png"/></a>
 ```python
 while True:
     hack()
